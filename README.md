@@ -56,28 +56,37 @@ to properly compile and install Dlib library.
 ```
 ## Screenshots
 * Login Page
+ 
 ![Login Page](https://i.postimg.cc/YCBKjDC8/Login.png)
 
 * Home Page
+
 ![Home Page](https://i.postimg.cc/wTmYqYg7/Home.png)
 
 * Student Registration Page
+
 ![Student Registration Page](https://i.postimg.cc/cHHPPVF1/Student-Reg-form.png)
 
 * Faculty Registration Page
+
 ![Faculty Registration Page](https://i.postimg.cc/053q1ygT/faculty-reg-form.png)
 
 * Attendance Page
+
 ![Attendance Page](https://i.postimg.cc/J09wNPcr/attendance-form.png)
 
 * Live Attendance Page
+
 ![Live Attendance Page](https://i.postimg.cc/C1Q90m2G/live-attendance.png)
 
 * Get Reports Page
+
 ![Get Reports Page](https://i.postimg.cc/k570vV8b/get-report-form.png)
 
 * Records Page
+
 ![Records Page](https://i.postimg.cc/QMSR4Xkn/records.png)
 
 * Student Database Page
+
 ![Student Database Page](https://i.postimg.cc/QdgL7gBD/student-db.png)
