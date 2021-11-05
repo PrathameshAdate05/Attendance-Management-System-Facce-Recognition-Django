@@ -56,4 +56,4 @@ to properly compile and install Dlib library.
 ```
 ## Screenshots
 
-![Login Page]([url=https://postimg.cc/47g0Pt86][img]https://i.postimg.cc/47g0Pt86/live-attendance.png[/img][/url])
+![Login Page](https://i.postimg.cc/J09wNPcr/attendance-form.png)
