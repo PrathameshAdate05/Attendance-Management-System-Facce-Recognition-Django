@@ -54,3 +54,6 @@ to properly compile and install Dlib library.
   cd mysite
   python manage.py runserver
 ```
+## Screenshots
+
+![Login Page](https://drive.google.com/file/d/18I8nO18QGgAJoGz_cS0oukNZjHA5wGjF/view?usp=sharing)
